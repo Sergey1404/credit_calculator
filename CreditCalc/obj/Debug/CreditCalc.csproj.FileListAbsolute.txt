@@ -1,0 +1,28 @@
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\CreditCalc\CreditCalc\bin\Debug\CreditCalc.exe
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\CreditCalc\CreditCalc\bin\Debug\CreditCalc.pdb
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csprojAssemblyReference.cache
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\CreditCalc\CreditCalc\obj\Debug\CreditCalc.MainForm.resources
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\CreditCalc\CreditCalc\obj\Debug\CreditCalc.Properties.Resources.resources
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csproj.GenerateResource.cache
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csproj.CoreCompileInputs.cache
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\CreditCalc\CreditCalc\obj\Debug\CreditCalc.exe
+F:\ЯндексДиск\5_Мои проекты\MS Visual Studio\Projects\CreditCalc\CreditCalc\obj\Debug\CreditCalc.pdb
+D:\Шатунов Виктор Андреевич\_MSVS15Project\CreditCalc\CreditCalc\obj\Debug\CreditCalc.exe
+D:\Шатунов Виктор Андреевич\_MSVS15Project\CreditCalc\CreditCalc\obj\Debug\CreditCalc.pdb
+D:\Шатунов Виктор Андреевич\_MSVS15Project\CreditCalc\CreditCalc\bin\Debug\CreditCalc.exe
+D:\Шатунов Виктор Андреевич\_MSVS15Project\CreditCalc\CreditCalc\bin\Debug\CreditCalc.pdb
+D:\Шатунов Виктор Андреевич\_MSVS15Project\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csprojResolveAssemblyReference.cache
+D:\Шатунов Виктор Андреевич\_MSVS15Project\CreditCalc\CreditCalc\obj\Debug\CreditCalc.MainForm.resources
+D:\Шатунов Виктор Андреевич\_MSVS15Project\CreditCalc\CreditCalc\obj\Debug\CreditCalc.Properties.Resources.resources
+D:\Шатунов Виктор Андреевич\_MSVS15Project\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csproj.GenerateResource.Cache
+D:\Загрузки\CreditCalc\CreditCalc\CreditCalc\bin\Debug\CreditCalc.exe
+D:\Загрузки\CreditCalc\CreditCalc\CreditCalc\bin\Debug\CreditCalc.pdb
+D:\Загрузки\CreditCalc\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csproj.AssemblyReference.cache
+D:\Загрузки\CreditCalc\CreditCalc\CreditCalc\obj\Debug\CreditCalc.MainForm.resources
+D:\Загрузки\CreditCalc\CreditCalc\CreditCalc\obj\Debug\CreditCalc.Properties.Resources.resources
+D:\Загрузки\CreditCalc\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csproj.GenerateResource.cache
+D:\Загрузки\CreditCalc\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csproj.CoreCompileInputs.cache
+D:\Загрузки\CreditCalc\CreditCalc\CreditCalc\obj\Debug\CreditCalc.exe
+D:\Загрузки\CreditCalc\CreditCalc\CreditCalc\obj\Debug\CreditCalc.pdb
+D:\Загрузки\CreditCalc\CreditCalc\CreditCalc\bin\Debug\CreditCalc.exe.config
+D:\Загрузки\CreditCalc\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csproj.SuggestedBindingRedirects.cache
